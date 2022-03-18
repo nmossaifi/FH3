@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+/flow/.ipynb_checkpoints/*
+flow/*.txt
+flow/*.tsv
+flow/.hise*
